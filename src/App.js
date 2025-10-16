@@ -1,13 +1,21 @@
 import './App.css';
 import Navbar from './components/navbar';
 import Banner from './components/banner';
+import Info from './components/informacion';
 
 function App() {
   return (
     <div className="">
-      <Navbar/>
-      <Banner/>
+      <Navbar />
+
+      <div className='container'>
+        <Banner />
+        <Info />
+      </div>
+      
     </div>
+
+    
   );
 }
 
