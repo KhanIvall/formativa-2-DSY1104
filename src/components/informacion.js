@@ -11,7 +11,9 @@ function InformacionEmpresa() {
 
                 <div className='col-lg-6'>
                     <h2>Misión:</h2>
+                    <p>Ser la mejor empresa de tecnología del país.</p>
                     <h2>Visión:</h2>
+                    <p>Ser reconocidos como líderes en innovación y calidad en el sector tecnológico.</p>
                 </div>
             </div>
         </div>
